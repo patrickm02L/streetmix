@@ -1,17 +1,39 @@
-[![Build Status](https://img.shields.io/travis/codeforamerica/streetmix/master.svg?style=flat-square)](https://travis-ci.org/codeforamerica/streetmix)
-[![Dependency Status](https://img.shields.io/david/codeforamerica/streetmix.svg?style=flat-square)](https://david-dm.org/codeforamerica/streetmix)
-[![Code Climate](https://img.shields.io/codeclimate/github/codeforamerica/streetmix.svg?style=flat-square)](https://codeclimate.com/github/codeforamerica/streetmix)
+<p align="center">
+  <a href="http://streetmix.net/">
+    <img alt="Streetmix" src="https://cdn.rawgit.com/streetmix/logo/master/streetmix-logo.svg" width="450">
+  </a>
+</p>
 
-Streetmix
-=========
+<p align="center">
+  <b>Design, remix, and share your neighborhood street.</b>
+  <br>Make change in your community at <a href="http://streetmix.net/">streetmix.net</a>.
+</p>
 
-Streetmix is a browser-based interactive tool that lets you design, remix, and share your neighborhood street.  Add trees or bike paths, widen sidewalks or traffic lanes, and learn how your decisions can impact your community.
+<p align="center">
+  :couple: :palm_tree: :oncoming_automobile: :oncoming_bus: :palm_tree: :dancer:
+</p>
 
-Streetmix is currently live at http://streetmix.net/
+<p align="center">
+  <b>Have questions? Looking for support or advice?</b>
+  <br><a href="https://streetmix-slack.herokuapp.com/">Join our Slack community!</a>
+</p>
 
-**Have questions? Looking for support or advice?** [Join our Slack community!](https://streetmix-slack.herokuapp.com/)
+<p align="center">
+  Learn more about the team and project collaborators at <a href="https://opencollective.com/streetmix">Open Collective</a>.
+  <br>We welcome contributions! Please see our <a href="https://github.com/codeforamerica/streetmix/blob/master/CONTRIBUTING.md">contributor guidelines</a>.
+</p>
 
-![screenshot](doc/images/screenshot-beta.jpg)
+<p align="center">
+  <a href="https://travis-ci.org/codeforamerica/streetmix"><img alt="Build Status" src="https://img.shields.io/travis/codeforamerica/streetmix/master.svg?style=flat-square"></a>
+  <a href="https://david-dm.org/codeforamerica/streetmix"><img alt="Dependency Status" src="https://img.shields.io/david/codeforamerica/streetmix.svg?style=flat-square"></a>
+  <a href="https://codeclimate.com/github/codeforamerica/streetmix"><img alt="Code Climate" src="https://img.shields.io/codeclimate/github/codeforamerica/streetmix.svg?style=flat-square"></a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/codeforamerica/streetmix/raw/master/doc/images/screenshot-beta.jpg" alt="screenshot">
+</p>
 
 ## About
 
@@ -40,6 +62,7 @@ Streetmix can be used as a tool to promote and engage citizens around streetscap
 
 Streetmix started as a [Code for America][cfa] hackathon project in January 2013, inspired by community meetings like the one described above.
 
+[cfa]: https://codeforamerica.org/
 
 ## Sponsors
 
@@ -47,12 +70,6 @@ Streetmix started as a [Code for America][cfa] hackathon project in January 2013
   <a href="https://opencollective.com/streetmix"><img src="https://opencollective.com/streetmix/sponsors.svg" alt="Become a sponsor"></a>
 </p>
 
-
-## Collaborators
-
-Find out more about the team and project collaborators at [Open Collective](opencollective.com/streetmix). For feedback, feature requests, bug reports, and contributions, see our [Contributing Guide][contributing].
-
-[contributing]: https://github.com/codeforamerica/streetmix/blob/master/CONTRIBUTING.md
 
 ### Copyright
 
